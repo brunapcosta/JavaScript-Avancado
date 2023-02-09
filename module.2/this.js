@@ -10,7 +10,7 @@
 //     name: "Bruna",
 //     age: 28,
 //     talk: function(){
-//         console.log(person.name); //escopo local, está dentro da função
+//         console.log('Helo, world'); //escopo local, está dentro da função
 //     },
 // }
 
@@ -21,7 +21,6 @@
 // function myName() {
 //     const name = "Rodolfo" //escopo local
 // }
-
 
 // console.log(this === module.exports)
 
